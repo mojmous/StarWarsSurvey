@@ -14,3 +14,5 @@ Finally, we will present an infographic summarizing our analysis.
 I hope you enjoy it. You can open it directly in your browser using the link below:
 
 https://nbviewer.org/github/mojmous/StarWarsSurvey/blob/main/Star%20War%20Survey.ipynb?flush_cache=true
+https://github.com/mojmous/StarWarsSurvey/blob/main/Star%20War%20Survey.ipynb
+https://nbviewer.org/github/mojmous/SATinNewYorkCityHighSchools/blob/main/SATinNYCityHighSchools.ipynb?flush_cache=true
